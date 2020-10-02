@@ -7,3 +7,4 @@ Pietro Casotto: https://github.com/PietroCasotto/Kalk
 Benedetto Cosentino && Matteo Ranzato: https://github.com/benny1693/Kalk
 Mariano Sciacco (2018-2019): https://github.com/Maxelweb/qCloudUNIPD
 Alessia Bragagnolo: https://github.com/ale958/PAO16-17Ristorante
+Martin Masevski: https://github.com/Archetipo95/Progetto-Programmazione-Oggetti-CitySharing
